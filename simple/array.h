@@ -9,7 +9,7 @@ private:
 public:
 
     int test() {
-        return 0;
+        return 1;
     }
 
     void rotate(vector<int>& nums, int k) {
