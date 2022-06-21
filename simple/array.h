@@ -8,10 +8,6 @@ private:
     /* data */
 public:
 
-    int test() {
-        return 1;
-    }
-
     void rotate(vector<int>& nums, int k) {
         int len = nums.size();
         int temp;
